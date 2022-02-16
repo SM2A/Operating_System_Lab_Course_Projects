@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "stat.h": "c",
+        "user.h": "c",
+        "semaphore.h": "c",
+        "defs.h": "c",
+        "param.h": "c",
+        "memlayout.h": "c",
+        "spinlock.h": "c",
+        "mmu.h": "c",
+        "typeinfo": "c"
+    }
+}
